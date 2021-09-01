@@ -2,15 +2,16 @@
 //
 
 #include <iostream>
-#include "1_twosum.h"
+#include "1_twosum_sol.h"
 
 int main()
 {
     vector<int> num;
-    num.push_back(3);
     num.push_back(2);
-    num.push_back(3);
-    int target = 6;
+    num.push_back(7);
+    num.push_back(11);
+    num.push_back(15);
+    int target = 9;
     Solution sol = Solution();
     vector<int> result = sol.twoSum(num, target);
 

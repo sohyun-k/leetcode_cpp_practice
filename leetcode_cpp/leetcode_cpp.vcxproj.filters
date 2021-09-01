@@ -23,5 +23,8 @@
     <ClInclude Include="1_twosum.h">
       <Filter>소스 파일</Filter>
     </ClInclude>
+    <ClInclude Include="1_twosum_sol.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
