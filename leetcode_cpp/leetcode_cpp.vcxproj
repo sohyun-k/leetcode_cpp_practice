@@ -144,6 +144,7 @@
   <ItemGroup>
     <ClInclude Include="1_twosum.h" />
     <ClInclude Include="1_twosum_sol.h" />
+    <ClInclude Include="2_robotBoundedInCircle.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

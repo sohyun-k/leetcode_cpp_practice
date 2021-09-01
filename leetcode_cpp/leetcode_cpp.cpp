@@ -2,18 +2,12 @@
 //
 
 #include <iostream>
-#include "1_twosum_sol.h"
+#include "2_robotBoundedInCircle.h"
+
 
 int main()
 {
-    vector<int> num;
-    num.push_back(2);
-    num.push_back(7);
-    num.push_back(11);
-    num.push_back(15);
-    int target = 9;
-    Solution sol = Solution();
-    vector<int> result = sol.twoSum(num, target);
-
-    cout << result.at(0) << " " << result.at(1);
+	string ex = "GGLLGG";
+	Solution sol = Solution();
+	cout << sol.isRobotBounded(ex) << endl;
 }

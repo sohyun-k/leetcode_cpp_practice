@@ -26,5 +26,8 @@
     <ClInclude Include="1_twosum_sol.h">
       <Filter>소스 파일</Filter>
     </ClInclude>
+    <ClInclude Include="2_robotBoundedInCircle.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
