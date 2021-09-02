@@ -29,5 +29,11 @@
     <ClInclude Include="2_robotBoundedInCircle.h">
       <Filter>소스 파일</Filter>
     </ClInclude>
+    <ClInclude Include="3_LRU_Cache.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="3_LRU_Cache_sol.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
