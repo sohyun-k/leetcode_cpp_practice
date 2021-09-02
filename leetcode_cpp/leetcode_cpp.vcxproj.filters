@@ -35,5 +35,8 @@
     <ClInclude Include="3_LRU_Cache_sol.h">
       <Filter>소스 파일</Filter>
     </ClInclude>
+    <ClInclude Include="4_merge_intervals.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

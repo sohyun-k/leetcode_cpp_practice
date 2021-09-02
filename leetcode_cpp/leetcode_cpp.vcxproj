@@ -147,6 +147,7 @@
     <ClInclude Include="2_robotBoundedInCircle.h" />
     <ClInclude Include="3_LRU_Cache.h" />
     <ClInclude Include="3_LRU_Cache_sol.h" />
+    <ClInclude Include="4_merge_intervals.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
