@@ -18,6 +18,9 @@
     <ClCompile Include="leetcode_cpp.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="5_trapping_rain_water_twopointers.h">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1_twosum.h">
@@ -39,6 +42,15 @@
       <Filter>소스 파일</Filter>
     </ClInclude>
     <ClInclude Include="4_merge_intervals_recoding.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="5_trapping_rain_water_dynamicprog.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="6_number_of_islands.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="7_add_two_numbers.h">
       <Filter>소스 파일</Filter>
     </ClInclude>
   </ItemGroup>

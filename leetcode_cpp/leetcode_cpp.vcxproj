@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="5_trapping_rain_water_twopointers.h" />
     <ClCompile Include="leetcode_cpp.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -149,6 +150,9 @@
     <ClInclude Include="3_LRU_Cache_sol.h" />
     <ClInclude Include="4_merge_intervals.h" />
     <ClInclude Include="4_merge_intervals_recoding.h" />
+    <ClInclude Include="5_trapping_rain_water_dynamicprog.h" />
+    <ClInclude Include="6_number_of_islands.h" />
+    <ClInclude Include="7_add_two_numbers.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

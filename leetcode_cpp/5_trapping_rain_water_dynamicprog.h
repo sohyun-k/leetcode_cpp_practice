@@ -31,7 +31,7 @@ public:
                 max = height.at(idx);
             }
         }
-        tot_water = l_water + r_water - max * height.size();
+        tot_water = l_water + r_water - max * height.size() + tot;
         return tot_water;
     }
 };
